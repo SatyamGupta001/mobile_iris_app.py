@@ -2,7 +2,7 @@
 
 This is a responsive **Streamlit web app** that predicts the species of an Iris flower based on user input. It uses multiple machine learning models and is optimized for **mobile and desktop** devices. The app includes **dark mode**, **model accuracy comparison**, and interactive **prediction confidence visualizations**.
 
-![App Screenshot](screenshot.png) <!-- Replace with your actual screenshot image if available -->
+![App Screenshot](Screenshot.png) <!-- Replace with your actual screenshot image if available -->
 
 ---
 
