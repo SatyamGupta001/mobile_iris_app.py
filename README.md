@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Species Classifier (Responsive + Dark Mode)
+# 🌸 Iris Flower Species Classifier
 
 This is a responsive **Streamlit web app** that predicts the species of an Iris flower based on user input. It uses multiple machine learning models and is optimized for **mobile and desktop** devices. The app includes **dark mode**, **model accuracy comparison**, and interactive **prediction confidence visualizations**.
 
